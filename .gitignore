@@ -2,3 +2,5 @@
 .vscode/
 .DS_Store
 Computer_Graphics/dependencies/
+.idea/
+.ipynb_checkpoints/
