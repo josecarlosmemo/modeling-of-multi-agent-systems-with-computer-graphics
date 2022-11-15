@@ -31,6 +31,9 @@ Graphics</h3>
 
 <div>
 <img width="40px" height="40px" src="https://skillicons.dev/icons?i=cpp"/>
+<img width="40px" height="40px" src="https://skillicons.dev/icons?i=js"/>
+<img width="40px" height="40px" src="https://skillicons.dev/icons?i=py"/>
+<img width="40px" height="40px" src="https://ico.now.sh/opengl/5586A4"/>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
